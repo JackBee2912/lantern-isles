@@ -31,19 +31,3 @@ only non-personalised ads are shown.
 
 **Contact.** Use the developer contact details on the game's Google Play page. **Changes** to this policy will be posted here before they apply.
 
----
-
-# Chính sách quyền riêng tư — Đảo Đèn Lồng
-
-*Hiệu lực từ 27/09/2026*
-
-Tiến trình chơi được lưu **trên máy** và không gửi cho chúng tôi. Dữ liệu chỉ rời máy theo hai cách:
-
-- **Quảng cáo có thưởng (Unity Ads)**, do bạn tự chọn xem: SDK Unity Ads thu thập thông tin thiết bị
-  (mã quảng cáo, địa chỉ IP, loại máy, tương tác quảng cáo). Lần đầu chơi, game hỏi bạn có cho phép
-  cá nhân hoá không; từ chối thì chỉ hiện quảng cáo không cá nhân hoá. Mua *Bỏ Quảng Cáo* thì không
-  hiện quảng cáo nào.
-- **Mua trong ứng dụng**: Google Play / App Store xử lý thanh toán, chúng tôi không thấy thông tin
-  thanh toán của bạn.
-
-Chúng tôi không bán dữ liệu, không tự thu thập phân tích, không bắt tạo tài khoản. Liên hệ: qua thông tin nhà phát triển trên trang Google Play của game.
