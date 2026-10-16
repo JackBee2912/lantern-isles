@@ -4,10 +4,10 @@ title: Privacy Policy — Lantern Isles
 
 # Privacy Policy — Lantern Isles
 
-*Effective date: 27 September 2026*
+*Effective date: 16 October 2026*
 
 Lantern Isles ("the game") is a single-player game. Your progress is saved on your device. This
-policy explains the only two ways data leaves it: optional rewarded ads and in-app purchases.
+policy explains the ways data leaves it: optional rewarded ads, in-app purchases and game analytics.
 
 **Your game progress** (resources, heroes, buildings, settings) is stored locally on your device and
 never sent to us. Uninstalling the game, or *Settings → Restart the game*, deletes it.
@@ -23,11 +23,19 @@ shown at all.
 see your payment details. The store tells the game which item you bought so it can be delivered.
 Unity IAP may send purchase telemetry to Unity (see the link above).
 
-**We do not** sell personal data, run our own analytics, or require an account.
+**Game analytics (Google Analytics for Firebase).** To learn how the game is played and improve it,
+the game uses Google Analytics for Firebase. It records how the game is used — sessions, quests
+finished, opening the shop, rewarded ads watched and in-app purchases — with device information
+(model, operating system, language, approximate location from the IP address) and a random
+app-instance identifier. **It is used for analytics only:** the game tells Firebase that advertising
+storage, advertising use of the data and ad personalisation are not allowed, whatever you answered
+about Unity Ads. Data is kept by Google for up to 14 months and is not linked to your name or account.
+Google's policy: https://policies.google.com/privacy
+
+**We do not** sell personal data or require an account.
 
 **Children.** The game is intended for players aged 13 and over and is not directed at children. If
 you are under the age of digital consent in your country, decline personalised ads when asked and
 only non-personalised ads are shown.
 
 **Contact.** Use the developer contact details on the game's Google Play page. **Changes** to this policy will be posted here before they apply.
-
