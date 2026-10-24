@@ -4,15 +4,17 @@ title: Privacy Policy — Lantern Isles
 
 # Privacy Policy — Lantern Isles
 
-*Effective date: 16 October 2026*
+*Effective date: 24 October 2026*
 
 Lantern Isles ("the game") is a single-player game. Your progress is saved on your device. This
-policy explains the ways data leaves it: optional rewarded ads, in-app purchases and game analytics.
+policy explains the ways data leaves it: ads, in-app purchases and game analytics.
 
 **Your game progress** (resources, heroes, buildings, settings) is stored locally on your device and
 never sent to us. Uninstalling the game, or *Settings → Restart the game*, deletes it.
 
-**Rewarded ads (Unity Ads).** The game offers optional ads that you choose to watch for a reward. To
+**Ads (Unity Ads).** The game offers optional ads that you choose to watch for a reward, and after a
+quest is finished it may show a full-screen ad (never to a new player, a few minutes apart and a limited
+number a day). To
 show them, the Unity Ads SDK collects device information such as the advertising identifier, IP
 address (approximate location), device model, diagnostics and ad interactions. The first time you play, the game asks whether ads may be
 personalised; if you decline, only non-personalised ads are shown. Unity's privacy policy:
